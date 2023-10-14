@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+}
+body{
+    background-image: url('img.jpg');
+    background-repeat: repeat-x;
+    background-position: center;
+}
+
+h1{
+    color: white;
+    border: 8px solid mediumaquamarine;
+    background-color: lightcoral;
+    opacity: 0.8;
+}
+
+p{
+    font-family: Verdana;
+    font-size: 20px;
+    border: 2px solid greenyellow;
+}
+
+#p2{
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    color: darkkhaki;
+    border: 2px solid greenyellow;
+}
+
+p.center{
+    color: darkgoldenrod;
+    font-weight: bold;
+    font-size: 20px;
+    border: 2px solid greenyellow;
+}
